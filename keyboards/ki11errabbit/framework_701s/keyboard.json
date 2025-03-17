@@ -28,7 +28,8 @@
         "mouse_enabled": true
     },
     "indicators": {
-        "caps_lock": "GP12"
+        "caps_lock": "GP12",
+        "num_lock": "GP2"
     },
     "diode_direction": "COL2ROW",
     "development_board": "elite_pi",
